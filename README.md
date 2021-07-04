@@ -1,8 +1,8 @@
 AnipleAndroid
 ===============
 #### 사용자 주변 동물 병원, 약국, 미용샵, 용품점을 검색하고 장소 정보, 반려동물 관련 이벤트 등을 보여주는 어플리케이션 
+[다운링크](https://play.google.com/store/apps/details?id=com.aniple)   
 > 개발 기간: 2020.07.06 ~ 2020.08.28
-
 > 개발 환경 & 언어 : 안드로이드 스튜디오 & kotlin
 <p float="left">
 <img width="200" height="300" alt="스크린샷 2020-08-04 오후 2 59 22" src="https://user-images.githubusercontent.com/50612841/89860440-690e7800-dbde-11ea-8959-61fb45518dca.png">
